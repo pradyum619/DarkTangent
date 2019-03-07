@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1861006944",
+    "firebase_url": "https://dark-tangent.firebaseio.com",
+    "project_id": "dark-tangent",
+    "storage_bucket": "dark-tangent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1861006944:android:d3e7a9c6a9512dfe",
+        "android_client_info": {
+          "package_name": "com.sssproducts.darktangent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1861006944-7dcdp3ao6e4moaq2mmpenme2mramdqbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sssproducts.darktangent",
+            "certificate_hash": "d8184f4c2aee7a166faf6257bbc4fa22ef1440a7"
+          }
+        },
+        {
+          "client_id": "1861006944-hf1u3pac32cjh7qc0q5kethguig21noh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfBul7ZjlJjCB7Hi8rRAOUDPuSWAc5DAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1861006944-hf1u3pac32cjh7qc0q5kethguig21noh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
